@@ -8,14 +8,14 @@
 但这本书的改进通常需要几小时到几天的时间。
 由于版本控制和持续自动集成（CI）测试，这一切颇为高效。
 为此，你需要向gihub存储库提交一个
-[pull request](https://github.com/d2l-ai/d2l-en/pulls)。
+[pull request](https://github.com/d2l-ai/d2l-zh/pulls)。
 当你的pull请求被作者合并到代码库中时，
-你将成为[贡献者](https://github.com/d2l-ai/d2l-en/graphs/contributors)。
+你将成为[贡献者](https://github.com/d2l-ai/d2l-zh/graphs/contributors)。
 
 ## 提交微小更改
 
 最常见的贡献是编辑一句话或修正笔误。
-我们建议你在[GitHub存储库](https://github.com/d2l-ai/d2l-en)
+我们建议你在[GitHub存储库](https://github.com/d2l-ai/d2l-zh)
 中查找源文件，以定位源文件（一个markdown文件）。
 然后单击右上角的“Edit this file”按钮，在markdown文件中进行更改。
 
@@ -71,7 +71,7 @@ Git开源书籍描述了[如何安装git](https://git-scm.com/book/en/v2)。
 
 ### 登录GitHub
 
-在浏览器中输入本书代码存储库的[地址](https://github.com/d2l-ai/d2l-en/)。
+在浏览器中输入本书代码存储库的[地址](https://github.com/d2l-ai/d2l-zh/)。
 单击 :numref:`fig_git_fork`右上角红色框中的`Fork`按钮，以复制本书的存储库。
 这将是你的副本，你可以随心所欲地更改它。
 
@@ -80,7 +80,7 @@ Git开源书籍描述了[如何安装git](https://git-scm.com/book/en/v2)。
 :label:`fig_git_fork`
 
 现在，本书的代码库将被分叉（即复制）到你的用户名，
-例如`astonzhang/d2l-en`显示在 :numref:`fig_git_forked`的左上角。
+例如`astonzhang/d2l-zh`显示在 :numref:`fig_git_forked`的左上角。
 
 ![分叉代码存储库](../img/git-forked.png)
 :width:`700px`
@@ -100,17 +100,17 @@ Git开源书籍描述了[如何安装git](https://git-scm.com/book/en/v2)。
 
 ```
 # 将your_github_username替换为你的github用户名
-git clone https://github.com/your_github_username/d2l-en.git
+git clone https://github.com/your_github_username/d2l-zh.git
 ```
 
 ### 编辑和推送
 
-现在是编辑这本书的时候了。最好按照 :numref:`sec_jupyter`中的说明在Jupyter Notebook中编辑它。进行更改并检查它们是否正常。假设我们已经修改了文件`~/d2l-en/chapter_appendix_tools/how-to-contribute.md`中的一个拼写错误。你可以检查你更改了哪些文件。
+现在是编辑这本书的时候了。最好按照 :numref:`sec_jupyter`中的说明在Jupyter Notebook中编辑它。进行更改并检查它们是否正常。假设我们已经修改了文件`~/d2l-zh/chapter_appendix_tools/how-to-contribute.md`中的一个拼写错误。你可以检查你更改了哪些文件。
 
 此时，Git将提示`chapter_appendix_tools/how-to-contribute.md`文件已被修改。
 
 ```
-mylaptop:d2l-en me$ git status
+mylaptop:d2l-zh me$ git status
 On branch master
 Your branch is up-to-date with 'origin/master'.
 
