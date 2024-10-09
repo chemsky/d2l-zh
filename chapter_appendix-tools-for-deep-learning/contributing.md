@@ -8,14 +8,14 @@
 但这本书的改进通常需要几小时到几天的时间。
 由于版本控制和持续自动集成（CI）测试，这一切颇为高效。
 为此，你需要向gihub存储库提交一个
-[pull request](https://github.com/d2l-ai/d2l-en/pulls)。
+[pull request](https://github.com/d2l-ai/d2l-zh/pulls)。
 当你的pull请求被作者合并到代码库中时，
-你将成为[贡献者](https://github.com/d2l-ai/d2l-en/graphs/contributors)。
+你将成为[贡献者](https://github.com/d2l-ai/d2l-zh/graphs/contributors)。
 
 ## 提交微小更改
 
 最常见的贡献是编辑一句话或修正笔误。
-我们建议你在[GitHub存储库](https://github.com/d2l-ai/d2l-en)
+我们建议你在[GitHub存储库](https://github.com/d2l-ai/d2l-zh)
 中查找源文件，以定位源文件（一个markdown文件）。
 然后单击右上角的“Edit this file”按钮，在markdown文件中进行更改。
 
